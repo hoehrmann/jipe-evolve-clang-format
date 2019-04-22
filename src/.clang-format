@@ -1,0 +1,10 @@
+"AlignAfterOpenBracket": "AlwaysBreak"
+"BinPackArguments": false
+"BinPackParameters": false
+"BraceWrapping": {}
+"ColumnLimit": 70
+"ContinuationIndentWidth": 2
+"DerivePointerAlignment": true
+"ReflowComments": true
+"SortIncludes": true
+"AlwaysBreakAfterReturnType": "TopLevel"
